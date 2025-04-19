@@ -3,7 +3,6 @@ pandas
 matplotlib
 scikit-learn
 statsmodels
-tensorflow==2.11.0
 numpy==1.23.5
-pystan==2.19.1.1
 prophet==1.1.4
+tensorflow==2.11.0
