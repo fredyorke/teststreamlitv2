@@ -5,5 +5,6 @@ scikit-learn
 statsmodels
 numpy==1.23.5
 tensorflow==2.11.0
+protobuf==3.19.1
 pystan==2.19.1.1
 prophet==1.1.4
